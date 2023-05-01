@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468117790945",
+    "project_id": "adhd-app-1cb87",
+    "storage_bucket": "adhd-app-1cb87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468117790945:android:a5c5bbfe7ff0cdb2cd17a0",
+        "android_client_info": {
+          "package_name": "com.example.adhd_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468117790945-v9q79q6bte1f63bir860m0oc3106vahs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adhd_app",
+            "certificate_hash": "2f1c064e8682de4c2faf4da1c4ae202e461453db"
+          }
+        },
+        {
+          "client_id": "468117790945-i50ba4i0sc7ao0qi3r1ovbs319gb8arj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlX5nwqwwhiDEXzfDPiD5lqICUT95rzM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468117790945-i50ba4i0sc7ao0qi3r1ovbs319gb8arj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADHD app</string>
+    <string name="facebook_app_id">1213728465840138</string>
+    <string name="fb_login_protocol_scheme">fb1213728465840138</string>
+    <string name="facebook_client_token">0748f0ff1851afe786963292a9788fa6</string>
+</resources>
